@@ -1,0 +1,31 @@
+Results <-
+list(`bwa.out//20220204//BlindCMMRD41_S1.sam` = list(DEPDC2_SNP1 = list(
+    All = list(Freqs = structure(c(0L, 1L, 0L, 0L, 9L, 2200L, 
+    5L, 12L, 15L, 3110L, 21L, 12L, 0L, 49L, 0L, 0L), .Dim = c(4L, 
+    4L), .Dimnames = structure(list(c("-1", "0", "1", NA), c("A", 
+    "C", "T", NA)), .Names = c("", "")), class = "table"), N = 5434L), 
+    Tag.Distribution = structure(c(`1` = 152L, `2` = 32L, `3` = 19L, 
+    `4` = 32L, `5` = 27L, `6` = 19L, `7` = 19L, `8` = 17L, `9` = 23L, 
+    `10` = 18L, `11` = 17L, `12` = 20L, `13` = 11L, `14` = 13L, 
+    `15` = 8L, `16` = 14L, `17` = 10L, `18` = 10L, `19` = 8L, 
+    `20` = 4L, `21` = 6L, `22` = 5L, `23` = 3L, `24` = 7L, `25` = 3L, 
+    `26` = 7L, `27` = 4L, `28` = 4L, `29` = 3L, `30` = 4L, `31` = 6L, 
+    `33` = 4L, `34` = 1L, `35` = 2L, `36` = 3L, `37` = 3L, `38` = 2L, 
+    `39` = 4L, `43` = 1L, `50` = 2L, `53` = 1L, `55` = 1L, `57` = 1L, 
+    `62` = 1L), .Dim = 44L, .Dimnames = list(TagUsage = c("1", 
+    "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", 
+    "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", 
+    "23", "24", "25", "26", "27", "28", "29", "30", "31", "33", 
+    "34", "35", "36", "37", "38", "39", "43", "50", "53", "55", 
+    "57", "62")), class = "table"), No.Tag = structure(c(0L, 
+    0L, 0L, 0L, 0L, 24L, 0L, 0L, 0L, 20L, 0L, 2L, 0L, 4L, 0L, 
+    0L), .Dim = c(4L, 4L), .Dimnames = structure(list(c("-1", 
+    "0", "1", NA), c("A", "C", "T", NA)), .Names = c("", "")), class = "table"), 
+    All.Tags = list(Concordant = list(Freqs = structure(c(0, 
+    0, 0, 2, 216, 0, 0, 266, 1), .Dim = c(3L, 3L), .Dimnames = list(
+        c("-1", "0", "1"), c("A", "C", "T"))), N = 485), Majority = list(
+        Freqs = structure(c(0, 0, 0, 2, 243, 0, 0, 293, 2), .Dim = c(3L, 
+        3L), .Dimnames = list(c("-1", "0", "1"), c("A", "C", 
+        "T"))), N = 540)), `2` = structure(c(0, 0, 0, 0, 181, 
+    0, 0, 213, 1), .Dim = c(3L, 3L), .Dimnames = list(c("-1", 
+    "0", "1"), c("A", "C", "T"))))))

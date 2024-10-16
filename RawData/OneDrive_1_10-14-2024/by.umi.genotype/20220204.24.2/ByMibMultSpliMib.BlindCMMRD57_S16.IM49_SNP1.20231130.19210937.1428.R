@@ -1,0 +1,31 @@
+Results <-
+list(`bwa.out//20220204//BlindCMMRD57_S16.sam` = list(IM49_SNP1 = list(
+    All = list(Freqs = structure(c(1L, 55L, 1695L, 26L, 0L, 1L, 
+    25L, 2L, 39L, 1290L, 19L, 1L, 0L, 9L, 0L, 0L, 1L, 0L, 0L, 
+    0L, 0L, 0L, 1L, 177L, 2L, 0L, 0L, 0L), .Dim = c(7L, 4L), .Dimnames = structure(list(
+        c("-2", "-1", "0", "1", "2", "3", NA), c("C", "G", "T", 
+        NA)), .Names = c("", "")), class = "table"), N = 3344L), 
+    Tag.Distribution = structure(c(`1` = 182L, `2` = 51L, `3` = 53L, 
+    `4` = 53L, `5` = 36L, `6` = 32L, `7` = 22L, `8` = 25L, `9` = 21L, 
+    `10` = 22L, `11` = 10L, `12` = 12L, `13` = 13L, `14` = 11L, 
+    `15` = 2L, `16` = 6L, `17` = 6L, `18` = 5L, `19` = 2L, `20` = 6L, 
+    `21` = 4L, `22` = 1L, `24` = 1L, `25` = 2L, `26` = 1L, `27` = 2L, 
+    `30` = 1L, `31` = 1L, `33` = 1L), .Dim = 29L, .Dimnames = list(
+        TagUsage = c("1", "2", "3", "4", "5", "6", "7", "8", 
+        "9", "10", "11", "12", "13", "14", "15", "16", "17", 
+        "18", "19", "20", "21", "22", "24", "25", "26", "27", 
+        "30", "31", "33")), class = "table"), No.Tag = structure(c(0L, 
+    1L, 71L, 3L, 0L, 0L, 2L, 1L, 2L, 54L, 3L, 0L, 0L, 0L, 0L, 
+    0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 10L, 0L, 0L, 0L, 0L), .Dim = c(7L, 
+    4L), .Dimnames = structure(list(c("-2", "-1", "0", "1", "2", 
+    "3", NA), c("C", "G", "T", NA)), .Names = c("", "")), class = "table"), 
+    All.Tags = list(Concordant = list(Freqs = structure(c(0, 
+    4, 243, 2, 0, 0, 0, 2, 179, 1, 0, 0, 0, 0, 1, 0, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-2", "-1", "0", "1", "2", "3"), 
+        c("C", "G", "T"))), N = 432), Majority = list(Freqs = structure(c(0, 
+    6, 304, 2, 0, 0, 0, 2, 232, 1, 0, 0, 0, 0, 1, 0, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-2", "-1", "0", "1", "2", "3"), 
+        c("C", "G", "T"))), N = 548)), `2` = structure(c(0, 2, 
+    220, 1, 0, 0, 0, 0, 171, 0, 0, 0, 0, 0, 1, 0, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-2", "-1", "0", "1", "2", "3"), 
+        c("C", "G", "T"))))))

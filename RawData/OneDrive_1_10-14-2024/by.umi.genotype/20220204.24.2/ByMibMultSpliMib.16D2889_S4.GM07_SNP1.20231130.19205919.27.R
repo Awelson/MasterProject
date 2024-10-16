@@ -1,0 +1,31 @@
+Results <-
+list(`bwa.out//20220204//16D2889_S4.sam` = list(GM07_SNP1 = list(
+    All = list(Freqs = structure(c(0L, 0L, 1L, 0L, 0L, 0L, 0L, 
+    8L, 322L, 4096L, 151L, 1L, 1L, 53L, 0L, 0L, 1L, 0L, 0L, 0L, 
+    2L, 0L, 3L, 26L, 0L, 0L, 0L, 0L), .Dim = c(7L, 4L), .Dimnames = structure(list(
+        c("-2", "-1", "0", "1", "2", "3", NA), c("-", "A", "G", 
+        NA)), .Names = c("", "")), class = "table"), N = 4665L), 
+    Tag.Distribution = structure(c(`1` = 196L, `2` = 132L, `3` = 82L, 
+    `4` = 68L, `5` = 62L, `6` = 48L, `7` = 31L, `8` = 34L, `9` = 19L, 
+    `10` = 29L, `11` = 23L, `12` = 11L, `13` = 15L, `14` = 18L, 
+    `15` = 8L, `16` = 7L, `17` = 12L, `18` = 5L, `19` = 3L, `20` = 2L, 
+    `22` = 3L, `23` = 1L, `24` = 1L, `25` = 1L, `27` = 2L, `29` = 2L, 
+    `31` = 1L, `32` = 2L, `35` = 1L), .Dim = 29L, .Dimnames = list(
+        TagUsage = c("1", "2", "3", "4", "5", "6", "7", "8", 
+        "9", "10", "11", "12", "13", "14", "15", "16", "17", 
+        "18", "19", "20", "22", "23", "24", "25", "27", "29", 
+        "31", "32", "35")), class = "table"), No.Tag = structure(c(0L, 
+    0L, 0L, 0L, 0L, 0L, 0L, 0L, 10L, 267L, 9L, 0L, 0L, 12L, 0L, 
+    0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 6L, 0L, 0L, 0L, 0L), .Dim = c(7L, 
+    4L), .Dimnames = structure(list(c("-2", "-1", "0", "1", "2", 
+    "3", NA), c("-", "A", "G", NA)), .Names = c("", "")), class = "table"), 
+    All.Tags = list(Concordant = list(Freqs = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 31, 558, 5, 0, 0, 0, 0, 0, 0, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-2", "-1", "0", "1", "2", "3"), 
+        c("-", "A", "G"))), N = 594), Majority = list(Freqs = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 36, 743, 10, 0, 0, 0, 0, 0, 0, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-2", "-1", "0", "1", "2", "3"), 
+        c("-", "A", "G"))), N = 789)), `2` = structure(c(0, 0, 
+    0, 0, 0, 0, 0, 18, 577, 6, 0, 0, 0, 0, 0, 0, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-2", "-1", "0", "1", "2", "3"), 
+        c("-", "A", "G"))))))

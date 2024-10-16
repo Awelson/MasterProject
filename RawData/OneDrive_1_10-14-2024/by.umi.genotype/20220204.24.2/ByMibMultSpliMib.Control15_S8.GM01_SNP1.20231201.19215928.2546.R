@@ -1,0 +1,25 @@
+Results <-
+list(`bwa.out//20220204//Control15_S8.sam` = list(GM01_SNP1 = list(
+    All = list(Freqs = structure(c(20L, 1724L, 6L, 3L, 23L, 1853L, 
+    17L, 1L, 2L, 54L, 0L, 0L), .Dim = 4:3, .Dimnames = structure(list(
+        c("-1", "0", "1", NA), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), N = 3703L), Tag.Distribution = structure(c(`1` = 133L, 
+    `2` = 56L, `3` = 33L, `4` = 37L, `5` = 32L, `6` = 29L, `7` = 25L, 
+    `8` = 23L, `9` = 18L, `10` = 15L, `11` = 10L, `12` = 18L, 
+    `13` = 12L, `14` = 8L, `15` = 7L, `16` = 11L, `17` = 8L, 
+    `18` = 7L, `19` = 7L, `20` = 4L, `21` = 7L, `22` = 2L, `23` = 5L, 
+    `24` = 1L, `26` = 4L, `27` = 3L, `28` = 2L, `29` = 1L, `30` = 2L, 
+    `34` = 2L, `45` = 1L), .Dim = 31L, .Dimnames = list(TagUsage = c("1", 
+    "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", 
+    "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", 
+    "23", "24", "26", "27", "28", "29", "30", "34", "45")), class = "table"), 
+    No.Tag = structure(c(1L, 43L, 0L, 0L, 1L, 32L, 1L, 0L, 0L, 
+    5L, 0L, 0L), .Dim = 4:3, .Dimnames = structure(list(c("-1", 
+    "0", "1", NA), c("A", "G", NA)), .Names = c("", "")), class = "table"), 
+    All.Tags = list(Concordant = list(Freqs = structure(c(1, 
+    202, 0, 3, 230, 1), .Dim = 3:2, .Dimnames = list(c("-1", 
+    "0", "1"), c("A", "G"))), N = 437), Majority = list(Freqs = structure(c(1, 
+    240, 0, 3, 266, 2), .Dim = 3:2, .Dimnames = list(c("-1", 
+    "0", "1"), c("A", "G"))), N = 512)), `2` = structure(c(0, 
+    187, 0, 0, 197, 1), .Dim = 3:2, .Dimnames = list(c("-1", 
+    "0", "1"), c("A", "G"))))))
