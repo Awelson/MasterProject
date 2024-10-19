@@ -81,6 +81,7 @@ def plot1(data, type1, type2, markerlist, samplelist, var1, var2):
         p9.scale_fill_brewer(type="qualitative", palette=1) +
         p9.geom_hline(yintercept = 0, linetype = "dotted", color = "black") +
         p9.labs(y='Spearman Correlation') +
+        p9.ggtitle(var1 + ' vs ' + var2 + ' (Allele Frequency)') +
         p9.theme_gray()
     )
 
@@ -96,21 +97,24 @@ def plot3(data, type1, type2, markerlist, samplelist, var1, var2):
     join = join.rename({join.columns[1]: type1, join.columns[2]: type2})
     
     # remove outlier
-    join = join.filter(pl.col(type2) > -0.3)
+    # join = join.filter(pl.col(type2) > -0.3)
     
     spcor = stats.spearmanr(join[type1].to_numpy(), join[type2].to_numpy()).correlation
     
     plot = (
         p9.ggplot(join, p9.aes(x=type1, y=type2)) +
         p9.geom_point() +
-        p9.scale_x_continuous(breaks=np.arange(-0.9, 0.4, 0.2), limits = (-0.9, 0.4)) +
+        p9.scale_x_continuous(breaks=np.arange(-0.4, 0.6, 0.2), limits = (-0.4, 0.6)) +
+        # scale for 0 vs -1
+        # p9.scale_x_continuous(breaks=np.arange(-0.9, 0.4, 0.2), limits = (-0.9, 0.4)) +
         p9.geom_hline(yintercept = 0, linetype = "dotted", color = "black") +
         p9.geom_vline(xintercept = 0, linetype = "dotted", color = "black") +
         p9.labs(x = type1, y = type2) +
-        p9.theme_gray() +
         p9.stat_smooth(method="rlm", se=False, linetype = "dotted", color="blue") +
-        p9.annotate("text", x=0.2, y=-0.1, label=f"Spearman Correlation: {spcor:.2f}", 
-             size=10, color="red")
+        p9.annotate("text", x=0.4, y=0.1, label=f"Spearman Correlation: {spcor:.2f}", 
+              size=10, color="red") +
+        p9.ggtitle('Spearman Correlations ' + '(' + var1 + ' vs ' + var2 + ')') +
+        p9.theme_gray()
     )
     
     plot.show()
