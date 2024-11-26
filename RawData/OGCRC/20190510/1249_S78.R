@@ -1,0 +1,162 @@
+Result <-
+list(AP0035322_SNP1 = structure(integer(0), .Dim = c(0L, 0L), .Dimnames = structure(list(
+    NULL, NULL), .Names = c("", "")), class = "table"), BAT25_SNP2 = structure(integer(0), .Dim = c(0L, 
+0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", ""
+)), class = "table"), BAT25_SNP3 = structure(integer(0), .Dim = c(0L, 
+0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", ""
+)), class = "table"), BAT25_SNP1 = structure(integer(0), .Dim = c(0L, 
+0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", ""
+)), class = "table"), BAT26_SNP1 = structure(integer(0), .Dim = c(0L, 
+0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", ""
+)), class = "table"), BRAF_SNP1 = structure(c(1L, 18194L, 0L, 
+1L, 0L, 37L), .Dim = 2:3, .Dimnames = structure(list(c("-1", 
+"0"), c("A", "T", NA)), .Names = c("", "")), class = "table"), 
+    DEPDC2_SNP1 = structure(c(0L, 0L, 1L, 0L, 0L, 152L, 1L, 17820L, 
+    96L, 45L, 0L, 0L, 31L, 0L, 0L, 3L, 0L, 236L, 1L, 0L), .Dim = 5:4, .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", "C", "T", NA)), .Names = c("", 
+    "")), class = "table"), GM01_SNP1 = structure(c(0L, 1L, 0L, 
+    0L, 250L, 12276L, 59L, 11L, 0L, 33L, 0L, 1L, 0L, 2L, 0L, 
+    0L, 4L, 119L, 2L, 0L), .Dim = 4:5, .Dimnames = structure(list(
+        c("-1", "0", "1", NA), c("-", "A", "G", "T", NA)), .Names = c("", 
+    "")), class = "table"), GM07_SNP1 = structure(c(1L, 0L, 13L, 
+    1L, 0L, 0L, 0L, 1L, 233L, 7L, 3896L, 3209L, 630L, 63L, 3L, 
+    435L, 2L, 0L, 154L, 25L, 14L, 0L, 0L, 0L), .Dim = c(8L, 3L
+    ), .Dimnames = structure(list(c("-1", "-2", "0", "1", "2", 
+    "3", "4", NA), c("A", "G", NA)), .Names = c("", "")), class = "table"), 
+    GM09_SNP1 = structure(c(73L, 1L, 11883L, 32L, 1L, 63L, 1L, 
+    10234L, 17L, 2L, 0L, 0L, 1L, 0L, 0L, 2L, 0L, 131L, 0L, 0L
+    ), .Dim = 5:4, .Dimnames = structure(list(c("-1", "-2", "0", 
+    "1", NA), c("A", "G", "T", NA)), .Names = c("", "")), class = "table"), 
+    GM11_SNP1 = structure(c(25L, 1L, 5765L, 24L, 2L, 0L, 0L, 
+    6L, 0L, 0L, 0L, 0L, 33L, 0L, 0L), .Dim = c(5L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), GM11_SNP2 = structure(c(25L, 1L, 
+    5773L, 24L, 2L, 0L, 0L, 31L, 0L, 0L), .Dim = c(5L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", NA)), .Names = c("", 
+    "")), class = "table"), GM14_SNP1 = structure(c(0L, 0L, 0L, 
+    2L, 0L, 0L, 0L, 202L, 7L, 3L, 5757L, 86L, 2L, 7L, 145L, 3L, 
+    1L, 5274L, 55L, 1L, 7L, 1L, 0L, 0L, 135L, 0L, 0L, 0L), .Dim = c(7L, 
+    4L), .Dimnames = structure(list(c("-1", "-2", "-3", "0", 
+    "1", "2", NA), c("A", "C", "T", NA)), .Names = c("", "")), class = "table"), 
+    GM17_SNP1 = structure(c(88L, 1L, 6370L, 24L, 2L, 93L, 0L, 
+    6837L, 23L, 4L, 3L, 0L, 83L, 0L, 0L), .Dim = c(5L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("C", "T", NA)), .Names = c("", 
+    "")), class = "table"), GM22_SNP1 = structure(c(132L, 2L, 
+    7685L, 29L, 9L, 1L, 0L, 7L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 2L, 
+    0L, 105L, 0L, 0L), .Dim = 5:4, .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", "G", "T", NA)), .Names = c("", 
+    "")), class = "table"), GM26_SNP1 = structure(c(35L, 1L, 
+    3863L, 24L, 4L, 31L, 0L, 3206L, 13L, 0L, 3L, 0L, 75L, 0L, 
+    0L), .Dim = c(5L, 3L), .Dimnames = structure(list(c("-1", 
+    "-2", "0", "1", NA), c("A", "G", NA)), .Names = c("", "")), class = "table"), 
+    GM29_SNP1 = structure(c(85L, 1L, 4575L, 17L, 3L, 84L, 4L, 
+    5109L, 33L, 6L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 82L, 4L, 0L), .Dim = 5:4, .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", "G", "T", NA)), .Names = c("", 
+    "")), class = "table"), IM16_SNP1 = structure(c(526L, 6161L, 
+    107L, 1L, 7L, 0L, 15L, 0L, 0L, 0L, 4L, 56L, 0L, 1L, 0L), .Dim = c(5L, 
+    3L), .Dimnames = structure(list(c("-1", "0", "1", "2", NA
+    ), c("A", "G", NA)), .Names = c("", "")), class = "table"), 
+    IM16_SNP2 = structure(c(525L, 6148L, 104L, 1L, 5L, 0L, 5L, 
+    0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 5L, 78L, 3L, 1L, 0L), .Dim = 5:4, .Dimnames = structure(list(
+        c("-1", "0", "1", "2", NA), c("C", "G", "T", NA)), .Names = c("", 
+    "")), class = "table"), IM16_SNP3 = structure(c(0L, 7L, 0L, 
+    0L, 0L, 529L, 6187L, 106L, 2L, 7L, 1L, 38L, 1L, 0L, 0L), .Dim = c(5L, 
+    3L), .Dimnames = structure(list(c("-1", "0", "1", "2", NA
+    ), c("A", "C", NA)), .Names = c("", "")), class = "table"), 
+    IM49_SNP1 = structure(c(366L, 8L, 1L, 10286L, 297L, 7L, 34L, 
+    0L, 1L, 0L, 16L, 0L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 
+    8L, 0L, 0L, 352L, 3L, 0L, 0L), .Dim = c(7L, 4L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", "2", NA), c("C", "G", "T", 
+        NA)), .Names = c("", "")), class = "table"), KRAS_SNP1 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), KRAS_SNP2 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), KRAS_SNP3 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), KRAS_SNP4 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LR10_SNP1 = structure(c(0L, 0L, 1L, 
+    0L, 0L, 0L, 125L, 2L, 4388L, 45L, 1L, 6L, 1L, 0L, 0L, 0L, 
+    0L, 0L, 77L, 2L, 4729L, 33L, 0L, 4L, 2L, 0L, 77L, 3L, 0L, 
+    0L), .Dim = 6:5, .Dimnames = structure(list(c("-1", "-2", 
+    "0", "1", "2", NA), c("A", "C", "G", "T", NA)), .Names = c("", 
+    "")), class = "table"), LR10_SNP2 = structure(c(202L, 4L, 
+    9112L, 74L, 0L, 13L, 1L, 0L, 10L, 0L, 0L, 0L, 2L, 0L, 73L, 
+    7L, 1L, 0L), .Dim = c(6L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", "2", NA), c("C", "T", NA)), .Names = c("", 
+    "")), class = "table"), LR11_SNP1 = structure(c(280L, 7L, 
+    1L, 9714L, 124L, 4L, 16L, 0L, 0L, 0L, 10L, 0L, 0L, 0L, 0L, 
+    0L, 0L, 1L, 0L, 0L, 0L, 4L, 0L, 0L, 87L, 0L, 0L, 0L), .Dim = c(7L, 
+    4L), .Dimnames = structure(list(c("-1", "-2", "-3", "0", 
+    "1", "2", NA), c("A", "C", "G", NA)), .Names = c("", "")), class = "table"), 
+    LR11_SNP2 = structure(c(0L, 0L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 
+    0L, 1L, 0L, 0L, 0L, 272L, 7L, 1L, 9547L, 123L, 3L, 8L, 0L, 
+    0L, 0L, 9L, 0L, 0L, 0L, 11L, 0L, 0L, 254L, 1L, 1L, 0L), .Dim = c(7L, 
+    5L), .Dimnames = structure(list(c("-1", "-2", "-3", "0", 
+    "1", "2", NA), c("-", "A", "C", "G", NA)), .Names = c("", 
+    "")), class = "table"), LR17_SNP1 = structure(c(361L, 9L, 
+    2L, 7489L, 144L, 1L, 35L, 0L, 0L, 0L, 2L, 0L, 0L, 0L, 11L, 
+    0L, 0L, 302L, 3L, 0L, 0L), .Dim = c(7L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", "2", NA), c("A", "G", NA
+        )), .Names = c("", "")), class = "table"), LR17_SNP2 = structure(c(0L, 
+    0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 21L, 0L, 0L, 0L, 368L, 
+    9L, 2L, 7452L, 141L, 1L, 17L, 4L, 0L, 0L, 318L, 6L, 0L, 0L
+    ), .Dim = c(7L, 4L), .Dimnames = structure(list(c("-1", "-2", 
+    "-3", "0", "1", "2", NA), c("-", "A", "G", NA)), .Names = c("", 
+    "")), class = "table"), LR17_SNP3 = structure(c(0L, 0L, 0L, 
+    2L, 0L, 0L, 0L, 186L, 3L, 1L, 3559L, 65L, 0L, 7L, 155L, 5L, 
+    1L, 2881L, 50L, 1L, 4L, 31L, 1L, 0L, 1351L, 32L, 0L, 0L), .Dim = c(7L, 
+    4L), .Dimnames = structure(list(c("-1", "-2", "-3", "0", 
+    "1", "2", NA), c("A", "C", "G", NA)), .Names = c("", "")), class = "table"), 
+    LR17_SNP4 = structure(c(175L, 6L, 1L, 3756L, 69L, 1L, 14L, 
+    195L, 3L, 1L, 3852L, 73L, 0L, 9L, 2L, 0L, 0L, 185L, 5L, 0L, 
+    0L), .Dim = c(7L, 3L), .Dimnames = structure(list(c("-1", 
+    "-2", "-3", "0", "1", "2", NA), c("G", "T", NA)), .Names = c("", 
+    "")), class = "table"), LR20_SNP1 = structure(c(1L, 28L, 
+    0L, 0L, 20L, 7723L, 9L, 1L, 0L, 1L, 0L, 0L, 1L, 58L, 0L, 
+    0L), .Dim = c(4L, 4L), .Dimnames = structure(list(c("-1", 
+    "0", "1", NA), c("A", "G", "T", NA)), .Names = c("", "")), class = "table"), 
+    LR24_SNP1 = structure(c(0L, 0L, 2L, 0L, 0L, 1L, 0L, 97L, 
+    0L, 0L, 100L, 3L, 17824L, 56L, 8L, 2L, 0L, 98L, 3L, 0L), .Dim = 5:4, .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("-", "A", "G", NA)), .Names = c("", 
+    "")), class = "table"), LR36_SNP1 = structure(c(1L, 0L, 0L, 
+    18L, 4L, 0L, 1L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 
+    3L, 0L, 0L, 0L, 220L, 13L, 3L, 8284L, 1402L, 49L, 116L, 7L, 
+    1L, 0L, 413L, 68L, 1L, 0L), .Dim = c(7L, 5L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", "2", NA), c("A", "C", "G", 
+        "T", NA)), .Names = c("", "")), class = "table"), LR40_SNP1 = structure(c(1L, 
+    0L, 4L, 0L, 0L, 60L, 1L, 5864L, 12L, 4L, 0L, 0L, 27L, 0L, 
+    0L), .Dim = c(5L, 3L), .Dimnames = structure(list(c("-1", 
+    "-2", "0", "1", NA), c("A", "C", NA)), .Names = c("", "")), class = "table"), 
+    LR44_SNP1 = structure(c(0L, 0L, 3L, 0L, 0L, 0L, 0L, 429L, 
+    20L, 5280L, 90L, 2L, 3L, 20L, 8L, 1L, 83L, 2L, 0L, 0L, 4L, 
+    9L, 1L, 135L, 0L, 0L, 0L, 0L), .Dim = c(7L, 4L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", "2", "4", NA), c("A", "C", "T", 
+        NA)), .Names = c("", "")), class = "table"), LR44_SNP2 = structure(c(4L, 
+    0L, 8L, 0L, 0L, 0L, 0L, 427L, 18L, 5357L, 90L, 1L, 3L, 12L, 
+    3L, 1L, 9L, 0L, 0L, 0L, 1L, 12L, 3L, 127L, 2L, 1L, 0L, 0L
+    ), .Dim = c(7L, 4L), .Dimnames = structure(list(c("-1", "-2", 
+    "0", "1", "2", "4", NA), c("-", "C", "T", NA)), .Names = c("", 
+    "")), class = "table"), LR46_SNP1 = structure(c(0L, 2L, 0L, 
+    0L, 0L, 2L, 0L, 0L, 0L, 14L, 0L, 0L, 44L, 8007L, 29L, 4L, 
+    0L, 40L, 0L, 0L), .Dim = 4:5, .Dimnames = structure(list(
+        c("-1", "0", "1", NA), c("-", "A", "G", "T", NA)), .Names = c("", 
+    "")), class = "table"), LR48_SNP1 = structure(c(103L, 2L, 
+    3534L, 66L, 1L, 8L, 107L, 4L, 3016L, 72L, 0L, 5L, 1L, 0L, 
+    157L, 2L, 0L, 0L), .Dim = c(6L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", "2", NA), c("C", "T", NA)), .Names = c("", 
+    "")), class = "table"), LR49_SNP1 = structure(c(11L, 5513L, 
+    7L, 1L, 19L, 5260L, 2L, 3L, 1L, 86L, 0L, 0L), .Dim = 4:3, .Dimnames = structure(list(
+        c("-1", "0", "1", NA), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), LR52_SNP1 = structure(c(2L, 1L, 0L, 
+    0L, 0L, 6L, 0L, 0L, 0L, 1016L, 97L, 5L, 2L, 2L, 5838L, 77L, 
+    2L, 80L, 14L, 0L, 0L, 0L, 0L, 329L, 4L, 0L, 0L), .Dim = c(9L, 
+    3L), .Dimnames = structure(list(c("-1", "-2", "-3", "-4", 
+    "-5", "0", "1", "2", NA), c("C", "T", NA)), .Names = c("", 
+    "")), class = "table"), NR21_SNP1 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), NR21_SNP2 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), NR24_SNP1 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"))

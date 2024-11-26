@@ -1,0 +1,90 @@
+Result <-
+list(DEPDC2_SNP1 = structure(c(0L, 0L, 1L, 0L, 0L, 25L, 3393L, 
+117L, 1L, 61L, 4783L, 21L, 0L, 0L, 111L, 3L), dim = c(4L, 4L), dimnames = structure(list(
+    c("-2", "-1", "0", "1"), c("A", "C", "T", NA)), names = c("", 
+""))), GM01_SNP1 = structure(c(0L, 0L, 2L, 0L, 2L, 187L, 8930L, 
+36L, 0L, 144L, 9219L, 43L, 0L, 8L, 236L, 1L), dim = c(4L, 4L), dimnames = structure(list(
+    c("-2", "-1", "0", "1"), c("-", "A", "G", NA)), names = c("", 
+""))), GM07_SNP1 = structure(c(0L, 0L, 2L, 1L, 0L, 0L, 2L, 74L, 
+2338L, 2520L, 72L, 1L, 0L, 37L, 1280L, 3698L, 83L, 2L, 0L, 0L, 
+0L, 0L, 0L, 0L, 0L, 1L, 20L, 128L, 1L, 0L), dim = 6:5, dimnames = structure(list(
+    c("-3", "-2", "-1", "0", "1", "2"), c("-", "A", "G", "T", 
+    NA)), names = c("", ""))), GM09_SNP1 = structure(c(36L, 7157L, 
+12L, 44L, 6637L, 13L, 1L, 101L, 0L), dim = c(3L, 3L), dimnames = structure(list(
+    c("-1", "0", "1"), c("A", "G", NA)), names = c("", ""))), 
+    GM11_SNP1 = structure(c(24L, 2313L, 5714L, 14L, 0L, 0L, 5L, 
+    0L, 0L, 9L, 49L, 1L), dim = 4:3, dimnames = structure(list(
+        c("-2", "-1", "0", "1"), c("A", "G", NA)), names = c("", 
+    ""))), GM14_SNP1 = structure(c(0L, 4L, 121L, 2813L, 2673L, 
+    28L, 2L, 1L, 2L, 7L, 311L, 5407L, 26L, 1L, 0L, 0L, 0L, 0L, 
+    1L, 140L, 25L, 0L, 0L, 0L), dim = c(8L, 3L), dimnames = structure(list(
+        c("-3", "-2", "-1", "0", "1", "2", "3", "4"), c("C", 
+        "T", NA)), names = c("", ""))), GM17_SNP1 = structure(c(0L, 
+    208L, 7491L, 28L, 1L, 2L, 86L, 7222L, 70L, 0L, 0L, 2L, 569L, 
+    0L, 0L), dim = c(5L, 3L), dimnames = structure(list(c("-2", 
+    "-1", "0", "1", "2"), c("C", "T", NA)), names = c("", ""))), 
+    GM22_SNP1 = structure(c(1L, 10L, 327L, 16793L, 73L, 0L, 0L, 
+    0L, 2L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 5L, 255L, 6L), dim = 5:4, dimnames = structure(list(
+        c("-3", "-2", "-1", "0", "1"), c("A", "G", "T", NA)), names = c("", 
+    ""))), GM26_SNP1 = structure(c(1L, 292L, 11878L, 39L, 2L, 
+    0L, 0L, 5L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 4L, 124L, 1L, 
+    0L), dim = 5:4, dimnames = structure(list(c("-2", "-1", "0", 
+    "1", "2"), c("A", "G", "T", NA)), names = c("", ""))), GM29_SNP1 = structure(c(12L, 
+    2646L, 7662L, 27L, 0L, 0L, 4L, 0L, 0L, 1L, 0L, 0L, 0L, 14L, 
+    86L, 0L), dim = c(4L, 4L), dimnames = structure(list(c("-2", 
+    "-1", "0", "1"), c("A", "G", "T", NA)), names = c("", ""))), 
+    IM16_SNP1 = structure(c(0L, 1L, 0L, 0L, 0L, 2L, 2567L, 3149L, 
+    42L, 2L, 3L, 706L, 5713L, 76L, 0L, 0L, 0L, 3L, 0L, 0L, 0L, 
+    26L, 151L, 4L, 0L), dim = c(5L, 5L), dimnames = structure(list(
+        c("-2", "-1", "0", "1", "2"), c("-", "A", "G", "T", NA
+        )), names = c("", ""))), IM49_SNP1 = structure(c(16L, 
+    583L, 1991L, 948L, 22L, 1L, 8L, 145L, 2904L, 297L, 8L, 0L, 
+    0L, 11L, 199L, 30L, 4L, 0L), dim = c(6L, 3L), dimnames = structure(list(
+        c("-2", "-1", "0", "1", "2", "3"), c("C", "G", NA)), names = c("", 
+    ""))), LR10_SNP1 = structure(c(0L, 1L, 1L, 0L, 0L, 1L, 8L, 
+    0L, 0L, 0L, 1L, 0L, 28L, 4397L, 12110L, 54L, 0L, 16L, 157L, 
+    1L), dim = 4:5, dimnames = structure(list(c("-2", "-1", "0", 
+    "1"), c("A", "C", "G", "T", NA)), names = c("", ""))), LR11_SNP1 = structure(c(0L, 
+    0L, 12L, 0L, 0L, 7L, 439L, 8133L, 56L, 1L, 0L, 19L, 343L, 
+    4L, 0L), dim = c(5L, 3L), dimnames = structure(list(c("-2", 
+    "-1", "0", "1", "2"), c("A", "C", NA)), names = c("", ""))), 
+    LR17_SNP1 = structure(c(0L, 0L, 0L, 0L, 1L, 0L, 0L, 1L, 145L, 
+    3451L, 2921L, 4871L, 60L, 3L, 0L, 0L, 0L, 3L, 2L, 0L, 0L, 
+    0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 27L, 145L, 359L, 1L, 
+    0L), dim = c(7L, 5L), dimnames = structure(list(c("-4", "-3", 
+    "-2", "-1", "0", "1", "2"), c("-", "A", "G", "T", NA)), names = c("", 
+    ""))), LR20_SNP1 = structure(c(0L, 1L, 4L, 0L, 6L, 3061L, 
+    9195L, 16L, 0L, 0L, 1L, 0L, 0L, 21L, 109L, 1L), dim = c(4L, 
+    4L), dimnames = structure(list(c("-2", "-1", "0", "1"), c("A", 
+    "G", "T", NA)), names = c("", ""))), LR24_SNP1 = structure(c(3L, 
+    273L, 2713L, 5L, 13L, 94L, 2883L, 20L, 0L, 0L, 2L, 0L, 0L, 
+    3L, 44L, 0L), dim = c(4L, 4L), dimnames = structure(list(
+        c("-2", "-1", "0", "1"), c("A", "G", "T", NA)), names = c("", 
+    ""))), LR36_SNP1 = structure(c(0L, 0L, 1L, 0L, 0L, 0L, 1L, 
+    326L, 1698L, 69L, 2812L, 30L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 
+    8L, 300L, 2271L, 2736L, 18L, 0L, 2L, 16L, 108L, 315L, 3L), dim = 6:5, dimnames = structure(list(
+        c("-4", "-3", "-2", "-1", "0", "1"), c("-", "A", "G", 
+        "T", NA)), names = c("", ""))), LR40_SNP1 = structure(c(0L, 
+    0L, 5L, 0L, 2L, 402L, 7606L, 34L, 0L, 0L, 1L, 0L, 0L, 0L, 
+    57L, 3L), dim = c(4L, 4L), dimnames = structure(list(c("-2", 
+    "-1", "0", "1"), c("A", "C", "T", NA)), names = c("", ""))), 
+    LR44_SNP1 = structure(c(0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 
+    3L, 166L, 1401L, 7185L, 80L, 1L, 0L, 0L, 0L, 0L, 12L, 66L, 
+    0L, 0L, 3L, 0L, 0L, 3L, 23L, 225L, 2L, 0L, 0L), dim = c(8L, 
+    4L), dimnames = structure(list(c("-4", "-3", "-2", "-1", 
+    "0", "1", "2", "4"), c("A", "C", "T", NA)), names = c("", 
+    ""))), LR46_SNP1 = structure(c(0L, 0L, 1L, 0L, 1L, 25L, 5243L, 
+    8L, 0L, 47L, 5429L, 30L, 0L, 0L, 79L, 1L), dim = c(4L, 4L
+    ), dimnames = structure(list(c("-2", "-1", "0", "1"), c("-", 
+    "G", "T", NA)), names = c("", ""))), LR48_SNP1 = structure(c(0L, 
+    0L, 0L, 2L, 0L, 0L, 2L, 19L, 1890L, 12487L, 203L, 3L, 0L, 
+    0L, 0L, 2L, 0L, 0L, 0L, 0L, 18L, 350L, 4L, 0L), dim = c(6L, 
+    4L), dimnames = structure(list(c("-3", "-2", "-1", "0", "1", 
+    "2"), c("A", "C", "T", NA)), names = c("", ""))), LR49_SNP1 = structure(c(1L, 
+    20L, 1L, 0L, 57L, 6930L, 1482L, 4L, 1L, 47L, 13L, 0L), dim = 4:3, dimnames = structure(list(
+        c("-1", "0", "1", "2"), c("A", "G", NA)), names = c("", 
+    ""))), LR52_SNP1 = structure(c(0L, 0L, 0L, 2L, 0L, 0L, 27L, 
+    711L, 2567L, 2584L, 14L, 0L, 22L, 518L, 2407L, 4004L, 40L, 
+    1L, 1L, 11L, 145L, 930L, 9L, 0L), dim = c(6L, 4L), dimnames = structure(list(
+        c("-3", "-2", "-1", "0", "1", "2"), c("A", "C", "T", 
+        NA)), names = c("", ""))))

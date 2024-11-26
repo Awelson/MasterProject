@@ -1,38 +1,80 @@
 # MasterProject
 
-## 21/10/2024
+### What is in RawData?
 
-### To-Do
+- 3 CRC
+    - CRC1
+        - genotype : NEWCRC/20170501
+        - phenotype : NEWCRC/Tumours.20190923.csv
+    - CRC2
+        - genotype : NEWCRC/20170809
+        - phenotype : NEWCRC/Tumours.20190923.csv
+    - Jenny
+        - genotype : OGCRC/UMImsiMNRsJenny210421
+        - phenotype : OGCRC/Data.Jenny.Coding.csv
 
-- Make improvements to Powerpoint :
-    - Motivation : Detection of +1 allele in samples, more frequent in MMRp tnan MMRd
-    - Question : How did the +1 allele arise?
-    - Hypothesis : 
-        - +1 Allele is a PCR artefact
-        - +1 Allele is caused by MMRd
-            - unlikely due to previous results
-        - +1 Allele is caused by MMR
-            - aligns with previous result
-            - MMR is known to be involved in trinucleotide expansion diseases
-    - Significance :
-        - Assuming Hyp 3 is true, +1 Allele frequency can be used as a marker to evaluate MMR function, esp in constitutional sample
-        - Assuming Hyp 1 is true, +1 Allele frequency can be used to predict PCR error rate, and this can be used as an extra normalization factor
-    - Figure captions
-        - Plot 1
-            - The assumption is that different markers have different sensitivies to MMR effects
-            - We also assume that there is a relationship between the +1 allele and 0 allele freqeuncy
-                - since we assume that the +1 allele is generated from insertion mutations occuring in the 0 allele 
-        - Plot 2
-            - Are markers that are more prone to deletions (via MMRd) also more prone to insertions (via MMR)?
-            - We know that microsatellite length positively correlates with mutation rate, specifically deletions
-                - Weak correlation suggests that length is not a strong predictor of insertion rate in MMRp samples
-                - Suggests independent mechanisms (between insertion in MMRp and deletions in MMRd)
+- 1 CMMRD
+    - CMMRD
+    	- genotype : CMMRD/byUMIGenotypesRearranged
+	    - phenotype : CMMRD/SampleData.20220204.v2.rds
 
-- New plot :
-    - Dot plot
-        - x-axis : microsatellite length
-        - y-axis : Allele frequency (-1 and +1 on different plots)
-        - also separate MMRp and MMRd samples
+- 2 EC
+    - Man
+        - genotype : EC/ManUMI/20220622
+        - phenotype : EC/ManUMI/Manchester.EC.Samples.20240111.csv
+        - Notes : Samples were renamed accordingly to match "EC/Man/20220425.24" (scripts/Renaming.R)
+    - Ohio
+        - genotype : EC/OhioUMI/20220318, EC/UMIOhio/20220401 
+        - phenotype : EC/OhioUMI/Ohio.SampleData.20240111.csv
 
-- Start work on CMMRD/blood data
+Marker Lengths : MarkerLengths.csv
 
+### Pre-Processing :
+
+All datasets are grouped into one dataframe
+
+- withSNP
+    - Columns : SampleName, Marker, Allele (length), Allele (SNP), Counts, UMI, L1, L2, L3, Dataset, Type
+    - Scripts
+        - scripts/Main.R + ReadFolder2.R
+    - csv output : Data/withSNP/All.csv
+
+This csv is then loaded as a python object, I have made various python "methods" to transform the dataframe in various ways depending on the purpose
+
+## Methods : 
+
+### withoutSNP1
+
+Procedure :
+    - Grouping : 'SampleName', 'Allele (length)', 'Marker', 'UMI', 'L1', 'L2', 'L3', 'Dataset', 'Type'
+    - "Counts" (new column) : the sum of all the counts across each "Allele (SNP)", this becomes the new counts for each group
+
+<!--
+Groups all observations (rows) which have the same values in the "Grouping" column together
+-->
+
+### withoutSNP2
+
+From withoutSNP1, create a new column called "Total", the total counts across "Allele (length)" for each group (marker-sample combination)
+
+### totalmarkercounts1
+
+This gives the total number of reads/counts observed in a particular sample-marker-UMI
+
+### totalmarkercounts2
+
+Same as totalmarkercounts, but filters are present
+
+filter parameters : D0, D1, D2
+
+Filter :
+
+Total < D0 in the D0 UMI group
+Total < D1 in the D1 UMI group
+Total < D2 in the D2 UMI group
+
+### fil
+
+Parameters : D0, D1, D2
+
+The original dataset, but with observations from Sample-Marker-UMI groups present in "totalmarkercounts2" removed

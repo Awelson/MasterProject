@@ -1,0 +1,53 @@
+Result <-
+list(DEPDC2_SNP1 = structure(c(0, 0, 0, 0, 571, 1, 0, 0, 0), dim = c(3L, 
+3L), dimnames = list(c("-1", "0", "1"), c("A", "C", "T"))), GM01_SNP1 = structure(c(0, 
+0, 0, 0, 0, 3, 1503, 0, 0, 0, 0, 0, 0, 0, 0, 0), dim = c(4L, 
+4L), dimnames = list(c("-2", "-1", "0", "1"), c("-", "A", "C", 
+"G"))), GM07_SNP1 = structure(c(0, 146, 315, 0, 0, 0, 0, 0, 0, 
+0, 0, 34, 410, 1, 0), dim = c(5L, 3L), dimnames = list(c("-2", 
+"-1", "0", "1", "2"), c("A", "C", "G"))), GM09_SNP1 = structure(c(0, 
+0, 0, 0, 0, 2, 956, 0), dim = c(4L, 2L), dimnames = list(c("-2", 
+"-1", "0", "1"), c("A", "G"))), GM11_SNP1 = structure(c(0, 1, 
+321, 0, 0, 1, 403, 0, 0, 0, 0, 0), dim = 4:3, dimnames = list(
+    c("-2", "-1", "0", "1"), c("A", "G", "T"))), GM14_SNP1 = structure(c(0, 
+0, 1, 0, 0, 0, 1, 614, 1, 0, 0, 6, 564, 0, 0), dim = c(5L, 3L
+), dimnames = list(c("-2", "-1", "0", "1", "2"), c("A", "C", 
+"T"))), GM17_SNP1 = structure(c(0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 
+607, 0, 0, 1, 686, 0), dim = c(4L, 4L), dimnames = list(c("-2", 
+"-1", "0", "1"), c("-", "A", "C", "T"))), GM22_SNP1 = structure(c(0, 
+2, 1971, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0), dim = c(5L, 3L), dimnames = list(
+    c("-2", "-1", "0", "1", "2"), c("A", "G", "T"))), GM26_SNP1 = structure(c(0, 
+0, 1, 277, 0, 0, 0, 6, 283, 0), dim = c(5L, 2L), dimnames = list(
+    c("-3", "-2", "-1", "0", "1"), c("A", "G"))), GM29_SNP1 = structure(c(0, 
+2, 798, 1, 0, 0, 0, 0), dim = c(4L, 2L), dimnames = list(c("-2", 
+"-1", "0", "1"), c("A", "G"))), IM16_SNP1 = structure(c(0, 20, 
+789, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0), dim = c(5L, 3L), dimnames = list(
+    c("-2", "-1", "0", "1", "2"), c("A", "G", "T"))), IM49_SNP1 = structure(c(1, 
+4, 248, 0, 0, 0, 0, 0), dim = c(4L, 2L), dimnames = list(c("-2", 
+"-1", "0", "1"), c("C", "G"))), LR10_SNP1 = structure(c(0, 0, 
+0, 0, 0, 0, 0, 0, 0, 4, 789, 14), dim = 3:4, dimnames = list(
+    c("-1", "0", "1"), c("-", "A", "C", "T"))), LR11_SNP1 = structure(c(0, 
+0, 0, 0, 0, 3, 676, 0), dim = c(4L, 2L), dimnames = list(c("-2", 
+"-1", "0", "1"), c("A", "C"))), LR17_SNP1 = structure(c(0, 0, 
+0, 0, 0, 0, 0, 2, 179, 870, 2, 0, 0, 0, 0, 0, 0, 0), dim = c(6L, 
+3L), dimnames = list(c("-3", "-2", "-1", "0", "1", "2"), c("-", 
+"A", "G"))), LR20_SNP1 = structure(c(0, 146, 0, 0, 171, 0, 0, 
+0, 0), dim = c(3L, 3L), dimnames = list(c("-1", "0", "1"), c("A", 
+"G", "T"))), LR24_SNP1 = structure(c(0, 0, 279, 0, 0, 3, 363, 
+0), dim = c(4L, 2L), dimnames = list(c("-2", "-1", "0", "1"), 
+    c("A", "G"))), LR36_SNP1 = structure(c(0, 0, 4, 416, 0, 0, 
+6, 114, 270, 0), dim = c(5L, 2L), dimnames = list(c("-3", "-2", 
+"-1", "0", "1"), c("A", "T"))), LR40_SNP1 = structure(c(0, 0, 
+0, 0, 0, 15, 531, 0), dim = c(4L, 2L), dimnames = list(c("-2", 
+"-1", "0", "1"), c("A", "C"))), LR44_SNP1 = structure(c(0, 8, 
+159, 1, 0, 0, 0, 1, 0, 0, 0, 5, 161, 1, 0), dim = c(5L, 3L), dimnames = list(
+    c("-2", "-1", "0", "1", "2"), c("C", "G", "T"))), LR46_SNP1 = structure(c(0, 
+0, 1, 0, 0, 0, 0, 0, 0, 2, 696, 0, 0, 2, 722, 0), dim = c(4L, 
+4L), dimnames = list(c("-2", "-1", "0", "1"), c("A", "C", "G", 
+"T"))), LR48_SNP1 = structure(c(0, 37, 1284, 4, 0, 0, 0, 0, 0, 
+0), dim = c(5L, 2L), dimnames = list(c("-2", "-1", "0", "1", 
+"2"), c("C", "T"))), LR49_SNP1 = structure(c(1, 373, 0, 116, 
+259, 0), dim = 3:2, dimnames = list(c("-1", "0", "1"), c("A", 
+"G"))), LR52_SNP1 = structure(c(0, 0, 0, 0, 0, 0, 0, 0, 31, 455, 
+3, 0, 0, 0, 7, 340, 0, 0), dim = c(6L, 3L), dimnames = list(c("-3", 
+"-2", "-1", "0", "1", "2"), c("A", "C", "T"))))

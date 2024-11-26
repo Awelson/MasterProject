@@ -1,0 +1,31 @@
+Results <-
+list(`bwaOutput/20210421msiMNRsJenny/255811_S68.sam` = list(LR48_SNP1 = list(
+    All = list(Freqs = structure(c(0L, 0L, 1L, 1L, 0L, 0L, 0L, 
+    1L, 48L, 1682L, 9656L, 155L, 6L, 61L, 0L, 0L, 0L, 6L, 0L, 
+    0L, 0L, 0L, 0L, 14L, 219L, 3L, 0L, 0L), .Dim = c(7L, 4L), .Dimnames = structure(list(
+        c("-3", "-2", "-1", "0", "1", "2", NA), c("A", "C", "T", 
+        NA)), .Names = c("", "")), class = "table"), N = 11853L), 
+    Tag.Distribution = structure(c(`1` = 489L, `2` = 400L, `3` = 339L, 
+    `4` = 267L, `5` = 195L, `6` = 163L, `7` = 135L, `8` = 106L, 
+    `9` = 91L, `10` = 66L, `11` = 42L, `12` = 46L, `13` = 24L, 
+    `14` = 19L, `15` = 22L, `16` = 9L, `17` = 10L, `18` = 6L, 
+    `19` = 6L, `20` = 2L, `21` = 4L, `22` = 3L, `23` = 1L, `25` = 2L, 
+    `26` = 1L, `27` = 1L, `28` = 1L, `29` = 1L, `32` = 1L), .Dim = 29L, .Dimnames = structure(list(
+        c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", 
+        "11", "12", "13", "14", "15", "16", "17", "18", "19", 
+        "20", "21", "22", "23", "25", "26", "27", "28", "29", 
+        "32")), .Names = ""), class = "table"), No.Tag = structure(c(0L, 
+    0L, 0L, 0L, 0L, 0L, 0L, 0L, 5L, 65L, 291L, 3L, 0L, 4L, 0L, 
+    0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 3L, 20L, 0L, 0L, 0L), .Dim = c(7L, 
+    4L), .Dimnames = structure(list(c("-3", "-2", "-1", "0", 
+    "1", "2", NA), c("A", "C", "T", NA)), .Names = c("", "")), class = "table"), 
+    All.Tags = list(Concordant = list(Freqs = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 5, 174, 1611, 5, 1, 0, 0, 0, 3, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1", "2"), 
+        c("A", "C", "T"))), N = 1799), Majority = list(Freqs = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 6, 267, 2064, 5, 1, 0, 0, 0, 3, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1", "2"), 
+        c("A", "C", "T"))), N = 2346)), `2` = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 3, 185, 1680, 1, 1, 0, 0, 0, 0, 0, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1", "2"), 
+        c("A", "C", "T"))))))

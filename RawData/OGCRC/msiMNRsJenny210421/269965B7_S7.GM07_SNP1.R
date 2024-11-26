@@ -1,0 +1,30 @@
+Results <-
+list(`bwaOutput/20210421msiMNRsJenny/269965B7_S7.sam` = list(
+    GM07_SNP1 = list(All = list(Freqs = structure(c(0L, 0L, 1L, 
+    0L, 0L, 0L, 1L, 29L, 905L, 1010L, 29L, 21L, 0L, 0L, 0L, 2L, 
+    0L, 0L, 0L, 0L, 4L, 6L, 0L, 0L), .Dim = c(6L, 4L), .Dimnames = structure(list(
+        c("-3", "-2", "-1", "0", "1", NA), c("-", "A", "G", NA
+        )), .Names = c("", "")), class = "table"), N = 2008L), 
+        Tag.Distribution = structure(c(`1` = 52L, `2` = 26L, 
+        `3` = 25L, `4` = 25L, `5` = 31L, `6` = 19L, `7` = 14L, 
+        `8` = 13L, `9` = 14L, `10` = 14L, `11` = 16L, `12` = 15L, 
+        `13` = 9L, `14` = 6L, `15` = 1L, `16` = 2L, `17` = 3L, 
+        `18` = 3L, `19` = 4L, `21` = 4L, `23` = 1L, `24` = 1L, 
+        `28` = 1L), .Dim = 23L, .Dimnames = structure(list(c("1", 
+        "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", 
+        "13", "14", "15", "16", "17", "18", "19", "21", "23", 
+        "24", "28")), .Names = ""), class = "table"), No.Tag = structure(c(0L, 
+        0L, 0L, 0L, 0L, 0L, 0L, 0L, 18L, 30L, 0L, 0L, 0L, 0L, 
+        0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L), .Dim = c(6L, 
+        4L), .Dimnames = structure(list(c("-3", "-2", "-1", "0", 
+        "1", NA), c("-", "A", "G", NA)), .Names = c("", "")), class = "table"), 
+        All.Tags = list(Concordant = list(Freqs = structure(c(0, 
+        0, 0, 0, 0, 0, 3, 118, 99, 0, 0, 0, 0, 1, 0), .Dim = c(5L, 
+        3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1"), 
+            c("-", "A", "G"))), N = 221), Majority = list(Freqs = structure(c(0, 
+        0, 0, 0, 0, 0, 3, 138, 150, 0, 0, 0, 0, 1, 0), .Dim = c(5L, 
+        3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1"), 
+            c("-", "A", "G"))), N = 292)), `2` = structure(c(0, 
+        0, 0, 0, 0, 0, 2, 118, 124, 0, 0, 0, 0, 0, 0), .Dim = c(5L, 
+        3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1"), 
+            c("-", "A", "G"))))))

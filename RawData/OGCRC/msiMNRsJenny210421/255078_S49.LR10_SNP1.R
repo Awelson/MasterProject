@@ -1,0 +1,32 @@
+Results <-
+list(`bwaOutput/20210421msiMNRsJenny/255078_S49.sam` = list(LR10_SNP1 = list(
+    All = list(Freqs = structure(c(0L, 0L, 0L, 2L, 0L, 0L, 0L, 
+    0L, 0L, 0L, 10L, 0L, 0L, 0L, 1L, 2L, 335L, 7484L, 28L, 1L, 
+    15L, 0L, 0L, 1L, 117L, 3L, 0L, 0L), .Dim = c(7L, 4L), .Dimnames = structure(list(
+        c("-3", "-2", "-1", "0", "1", "2", NA), c("A", "C", "T", 
+        NA)), .Names = c("", "")), class = "table"), N = 7999L), 
+    Tag.Distribution = structure(c(`1` = 333L, `2` = 167L, `3` = 161L, 
+    `4` = 126L, `5` = 95L, `6` = 84L, `7` = 64L, `8` = 60L, `9` = 48L, 
+    `10` = 46L, `11` = 31L, `12` = 27L, `13` = 31L, `14` = 14L, 
+    `15` = 17L, `16` = 16L, `17` = 10L, `18` = 11L, `19` = 7L, 
+    `20` = 5L, `21` = 4L, `22` = 7L, `23` = 3L, `24` = 2L, `25` = 2L, 
+    `27` = 6L, `28` = 2L, `29` = 2L, `31` = 3L, `33` = 1L, `34` = 1L, 
+    `49` = 1L), .Dim = 32L, .Dimnames = structure(list(c("1", 
+    "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", 
+    "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", 
+    "23", "24", "25", "27", "28", "29", "31", "33", "34", "49"
+    )), .Names = ""), class = "table"), No.Tag = structure(c(0L, 
+    0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 
+    15L, 252L, 0L, 0L, 1L, 0L, 0L, 0L, 12L, 0L, 0L, 0L), .Dim = c(7L, 
+    4L), .Dimnames = structure(list(c("-3", "-2", "-1", "0", 
+    "1", "2", NA), c("A", "C", "T", NA)), .Names = c("", "")), class = "table"), 
+    All.Tags = list(Concordant = list(Freqs = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 32, 1205, 1, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1", "2"), 
+        c("A", "C", "T"))), N = 1243), Majority = list(Freqs = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 45, 1314, 1, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1", "2"), 
+        c("A", "C", "T"))), N = 1365)), `2` = structure(c(0, 
+    0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 35, 1010, 1, 0), .Dim = c(6L, 
+    3L), .Dimnames = list(c("-3", "-2", "-1", "0", "1", "2"), 
+        c("A", "C", "T"))))))

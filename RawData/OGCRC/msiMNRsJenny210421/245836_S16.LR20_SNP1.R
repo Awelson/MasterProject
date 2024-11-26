@@ -1,0 +1,31 @@
+Results <-
+list(`bwaOutput/20210421msiMNRsJenny/245836_S16.sam` = list(LR20_SNP1 = list(
+    All = list(Freqs = structure(c(6L, 3381L, 8L, 0L, 19L, 2645L, 
+    3L, 3L, 1L, 50L, 0L, 0L), .Dim = 4:3, .Dimnames = structure(list(
+        c("-1", "0", "1", NA), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), N = 6116L), Tag.Distribution = structure(c(`1` = 131L, 
+    `2` = 23L, `3` = 31L, `4` = 21L, `5` = 19L, `6` = 17L, `7` = 23L, 
+    `8` = 24L, `9` = 18L, `10` = 18L, `11` = 12L, `12` = 16L, 
+    `13` = 9L, `14` = 9L, `15` = 12L, `16` = 9L, `17` = 18L, 
+    `18` = 7L, `19` = 7L, `20` = 8L, `21` = 9L, `22` = 6L, `23` = 9L, 
+    `24` = 3L, `25` = 4L, `26` = 7L, `27` = 7L, `28` = 5L, `29` = 1L, 
+    `30` = 1L, `31` = 2L, `32` = 5L, `34` = 4L, `35` = 5L, `36` = 3L, 
+    `37` = 2L, `38` = 1L, `39` = 1L, `40` = 1L, `41` = 2L, `43` = 3L, 
+    `44` = 2L, `45` = 2L, `50` = 1L, `52` = 3L, `55` = 1L, `59` = 1L, 
+    `62` = 1L, `68` = 1L, `79` = 1L), .Dim = 50L, .Dimnames = structure(list(
+        c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", 
+        "11", "12", "13", "14", "15", "16", "17", "18", "19", 
+        "20", "21", "22", "23", "24", "25", "26", "27", "28", 
+        "29", "30", "31", "32", "34", "35", "36", "37", "38", 
+        "39", "40", "41", "43", "44", "45", "50", "52", "55", 
+        "59", "62", "68", "79")), .Names = ""), class = "table"), 
+    No.Tag = structure(c(1L, 110L, 0L, 0L, 0L, 115L, 0L, 2L, 
+    0L, 6L, 0L, 0L), .Dim = 4:3, .Dimnames = structure(list(c("-1", 
+    "0", "1", NA), c("A", "G", NA)), .Names = c("", "")), class = "table"), 
+    All.Tags = list(Concordant = list(Freqs = structure(c(0, 
+    255, 0, 2, 207, 0), .Dim = 3:2, .Dimnames = list(c("-1", 
+    "0", "1"), c("A", "G"))), N = 464), Majority = list(Freqs = structure(c(0, 
+    281, 0, 2, 229, 0), .Dim = 3:2, .Dimnames = list(c("-1", 
+    "0", "1"), c("A", "G"))), N = 512)), `2` = structure(c(0, 
+    211, 0, 1, 179, 0), .Dim = 3:2, .Dimnames = list(c("-1", 
+    "0", "1"), c("A", "G"))))))

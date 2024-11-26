@@ -1,0 +1,185 @@
+Result <-
+list(AKMmono02 = structure(c(11L, 172L, 3L, 6L, 0L, 3L, 0L, 0L
+), .Dim = c(4L, 2L), .Dimnames = structure(list(c("-1", "0", 
+"1", NA), c("T", NA)), .Names = c("", "")), class = "table"), 
+    AKMmono03 = structure(c(284L, 111L, 3L, 1L, 686L, 6L, 15L, 
+    14L, 2L, 0L, 0L, 65L, 0L, 0L), .Dim = c(7L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "-4", "0", "1", NA), c("A", NA)), .Names = c("", 
+    "")), class = "table"), AKMmono05 = structure(c(88L, 5L, 
+    303L, 12L, 4L, 2L, 1L, 18L, 0L, 0L), .Dim = c(5L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", NA)), .Names = c("", 
+    "")), class = "table"), AKMmono13 = structure(c(72L, 2L, 
+    281L, 9L, 1L, 7L, 1L, 0L, 19L, 0L, 0L, 0L), .Dim = c(6L, 
+    2L), .Dimnames = structure(list(c("-1", "-2", "0", "1", "2", 
+    NA), c("A", NA)), .Names = c("", "")), class = "table"), 
+    AKMmono16 = structure(c(182L, 7L, 765L, 23L, 14L, 0L, 1L, 
+    0L, 0L, 0L, 7L, 0L, 40L, 0L, 0L), .Dim = c(5L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), AKMmono22 = structure(c(16L, 21L, 
+    1L, 85L, 4L, 1L, 1L, 0L, 1L, 0L, 10L, 0L, 0L, 0L), .Dim = c(7L, 
+    2L), .Dimnames = structure(list(c("-1", "-2", "-3", "0", 
+    "1", "2", NA), c("A", NA)), .Names = c("", "")), class = "table"), 
+    EJmono05 = structure(c(144L, 48L, 510L, 10L, 6L, 4L, 2L, 
+    11L, 0L, 0L), .Dim = c(5L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("T", NA)), .Names = c("", 
+    "")), class = "table"), EJmono16 = structure(c(204L, 11L, 
+    498L, 27L, 42L, 0L, 0L, 0L, 0L, 1L, 1L, 1L, 10L, 0L, 0L), .Dim = c(5L, 
+    3L), .Dimnames = structure(list(c("-1", "-2", "0", "1", NA
+    ), c("A", "T", NA)), .Names = c("", "")), class = "table"), 
+    LMmono01 = structure(c(117L, 5L, 482L, 2L, 5L, 8L, 0L, 36L, 
+    0L, 0L), .Dim = c(5L, 2L), .Dimnames = structure(list(c("-1", 
+    "-2", "0", "1", NA), c("A", NA)), .Names = c("", "")), class = "table"), 
+    LMmono03 = structure(c(24L, 38L, 4L, 69L, 3L, 7L, 0L, 0L, 
+    0L, 4L, 0L, 0L), .Dim = c(6L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", NA), c("C", NA)), .Names = c("", 
+    "")), class = "table"), LMmono09 = structure(c(43L, 9L, 216L, 
+    12L, 1L, 5L, 1L, 0L, 3L, 0L, 0L, 0L), .Dim = c(6L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", "2", NA), c("T", NA)), .Names = c("", 
+    "")), class = "table"), LMmono12 = structure(c(73L, 6L, 451L, 
+    75L, 5L, 15L, 1L, 0L, 23L, 0L, 0L, 0L), .Dim = c(6L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", "2", NA), c("A", NA)), .Names = c("", 
+    "")), class = "table"), LMmono16 = structure(c(97L, 23L, 
+    3L, 272L, 7L, 14L, 9L, 15L, 2L, 1L, 0L, 55L, 1L, 2L, 0L, 
+    0L), .Dim = c(8L, 2L), .Dimnames = structure(list(c("-1", 
+    "-2", "-3", "0", "1", "3", "5", NA), c("A", NA)), .Names = c("", 
+    "")), class = "table"), MSJmono10 = structure(c(224L, 6L, 
+    1L, 988L, 33L, 8L, 8L, 0L, 0L, 50L, 4L, 0L), .Dim = c(6L, 
+    2L), .Dimnames = structure(list(c("-1", "-2", "-3", "0", 
+    "1", NA), c("C", NA)), .Names = c("", "")), class = "table"), 
+    MSJmono19ms1 = structure(c(269L, 5L, 1L, 1094L, 20L, 43L, 
+    0L, 0L, 0L, 1L, 0L, 0L, 19L, 1L, 0L, 121L, 0L, 0L), .Dim = c(6L, 
+    3L), .Dimnames = structure(list(c("-1", "-2", "-3", "0", 
+    "1", NA), c("A", "T", NA)), .Names = c("", "")), class = "table"), 
+    MSJmono19ms2 = structure(c(195L, 4L, 1120L, 29L, 36L, 6L, 
+    0L, 71L, 0L, 0L), .Dim = c(5L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("C", NA)), .Names = c("", 
+    "")), class = "table"), MSJmono36 = structure(c(46L, 2L, 
+    341L, 2L, 1L, 10L, 1L, 0L, 8L, 0L, 0L, 0L), .Dim = c(6L, 
+    2L), .Dimnames = structure(list(c("-1", "-2", "0", "1", "2", 
+    NA), c("G", NA)), .Names = c("", "")), class = "table"), 
+    MSJmono44 = structure(c(108L, 3L, 252L, 6L, 4L, 0L, 0L, 5L, 
+    0L, 0L), .Dim = c(5L, 2L), .Dimnames = structure(list(c("-1", 
+    "-2", "0", "1", NA), c("T", NA)), .Names = c("", "")), class = "table"), 
+    MSJmono46 = structure(c(31L, 15L, 1L, 93L, 9L, 4L, 1L, 1L, 
+    0L, 5L, 0L, 0L), .Dim = c(6L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", NA), c("C", NA)), .Names = c("", 
+    "")), class = "table"), LMmono04v2_SNP1 = structure(c(39L, 
+    2L, 336L, 15L, 1L, 2L, 3L, 0L, 15L, 1L, 0L, 0L), .Dim = c(6L, 
+    2L), .Dimnames = structure(list(c("-1", "-2", "0", "1", "2", 
+    NA), c("C", NA)), .Names = c("", "")), class = "table"), 
+    AKMmono01v2_SNP1 = structure(c(115L, 9L, 483L, 4L, 10L, 3L, 
+    0L, 16L, 0L, 0L), .Dim = c(5L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("T", NA)), .Names = c("", 
+    "")), class = "table"), AKMmono10v2_SNP1 = structure(c(5L, 
+    1L, 1L, 194L, 3L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 11L, 0L
+    ), .Dim = c(5L, 3L), .Dimnames = structure(list(c("-1", "-2", 
+    "-3", "0", "1"), c("A", "G", NA)), .Names = c("", "")), class = "table"), 
+    AKMmono17v2_SNP1 = structure(c(0L, 0L, 25L, 0L, 0L, 4L, 1L, 
+    41L, 1L, 1L, 0L, 0L, 3L, 0L, 0L), .Dim = c(5L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", "C", NA)), .Names = c("", 
+    "")), class = "table"), EJmono13v2_SNP1 = structure(c(27L, 
+    283L, 5L, 0L, 10L, 103L, 0L, 1L, 0L, 16L, 0L, 0L), .Dim = 4:3, .Dimnames = structure(list(
+        c("-1", "0", "1", "2"), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), LMmono05v2_SNP1 = structure(c(3L, 
+    49L, 1L, 2L, 1L, 0L, 0L, 1L, 0L), .Dim = c(3L, 3L), .Dimnames = structure(list(
+        c("-1", "0", "1"), c("A", "T", NA)), .Names = c("", ""
+    )), class = "table"), LMmono10v2_SNP1 = structure(c(74L, 
+    7L, 2L, 0L, 292L, 7L, 13L, 145L, 25L, 2L, 1L, 146L, 3L, 23L, 
+    2L, 0L, 0L, 0L, 33L, 0L, 0L), .Dim = c(7L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "-4", "0", "1", NA), c("A", "G", 
+        NA)), .Names = c("", "")), class = "table"), MSJmono30v2_SNP1 = structure(c(5L, 
+    89L, 1L, 0L, 43L, 5L), .Dim = 3:2, .Dimnames = structure(list(
+        c("-1", "0", "1"), c("C", NA)), .Names = c("", "")), class = "table"), 
+    EJmono14v2_SNP1 = structure(c(0L, 0L, 1L, 0L, 0L, 141L, 4L, 
+    291L, 8L, 4L, 11L, 0L, 52L, 4L, 0L), .Dim = c(5L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), AKMmono08v2_SNP1 = structure(c(30L, 
+    110L, 2L, 1L, 1L, 5L, 0L, 0L), .Dim = c(4L, 2L), .Dimnames = structure(list(
+        c("-1", "0", "1", NA), c("A", NA)), .Names = c("", ""
+    )), class = "table"), EJmono10 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LMmono02 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LMmono07 = structure(c(18L, 323L, 
+    13L, 2L, 0L, 25L, 0L, 0L), .Dim = c(4L, 2L), .Dimnames = structure(list(
+        c("-1", "0", "1", NA), c("G", NA)), .Names = c("", ""
+    )), class = "table"), AKMmono15 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), EJmono15 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), MSJmono24 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), AKMmono18 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), EJmono08 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), AKMmono06 = structure(c(106L, 16L, 
+    226L, 24L, 1L, 16L, 3L, 0L, 6L, 0L, 0L, 0L), .Dim = c(6L, 
+    2L), .Dimnames = structure(list(c("-1", "-2", "0", "1", "2", 
+    NA), c("A", NA)), .Names = c("", "")), class = "table"), 
+    EJmono04 = structure(c(215L, 60L, 6L, 1L, 778L, 32L, 3L, 
+    65L, 3L, 0L, 0L, 0L, 28L, 0L, 0L, 0L), .Dim = c(8L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "-4", "0", "1", "2", NA), c("G", 
+        NA)), .Names = c("", "")), class = "table"), EJmono02 = structure(c(0L, 
+    0L, 1L, 0L, 10L, 33L, 192L, 7L, 1L, 2L, 11L, 0L), .Dim = 4:3, .Dimnames = structure(list(
+        c("-1", "-3", "0", NA), c("C", "T", NA)), .Names = c("", 
+    "")), class = "table"), EJmono06v2_SNP1 = structure(c(31L, 
+    3L, 2L, 57L, 5L, 10L, 9L, 8L, 1L, 23L, 6L, 10L, 14L, 3L, 
+    0L, 112L, 7L, 0L), .Dim = c(6L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", NA), c("A", "G", NA)), .Names = c("", 
+    "")), class = "table"), EJmono03 = structure(c(16L, 271L, 
+    5L, 1L, 20L, 0L), .Dim = 3:2, .Dimnames = structure(list(
+        c("-1", "0", "1"), c("C", NA)), .Names = c("", "")), class = "table"), 
+    MSJmono23v2_SNP1 = structure(c(9L, 8L, 0L, 2L, 13L, 1L, 0L, 
+    5L, 0L), .Dim = c(3L, 3L), .Dimnames = structure(list(c("-1", 
+    "0", NA), c("G", "T", NA)), .Names = c("", "")), class = "table"), 
+    EJmono12 = structure(c(187L, 25L, 1L, 1217L, 24L, 10L, 3L, 
+    1L, 0L, 215L, 1L, 0L), .Dim = c(6L, 2L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", NA), c("C", NA)), .Names = c("", 
+    "")), class = "table"), LSWGSmono03 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono04 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono07 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono08 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono09 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono18 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono19 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono23 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono25 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono26 = structure(c(24L, 38L, 
+    4L, 69L, 3L, 7L, 0L, 0L, 0L, 4L, 0L, 0L), .Dim = c(6L, 2L
+    ), .Dimnames = structure(list(c("-1", "-2", "-3", "0", "1", 
+    NA), c("C", NA)), .Names = c("", "")), class = "table"), 
+    LSWGSmono28 = structure(integer(0), .Dim = c(0L, 0L), .Dimnames = structure(list(
+        NULL, NULL), .Names = c("", "")), class = "table"), LSWGSmono31 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), LSWGSmono32 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), AAAG0701_SNP1 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), AAAG0904_SNP1 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), AAAG1103_SNP1 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), AGAT0702_SNP1 = structure(integer(0), .Dim = c(0L, 
+    0L), .Dimnames = structure(list(NULL, NULL), .Names = c("", 
+    "")), class = "table"), GM07_SNP1 = structure(c(20L, 0L, 
+    247L, 9L, 3L, 20L, 2L, 248L, 4L, 0L, 0L, 0L, 12L, 0L, 0L), .Dim = c(5L, 
+    3L), .Dimnames = structure(list(c("-1", "-2", "0", "1", NA
+    ), c("A", "G", NA)), .Names = c("", "")), class = "table"), 
+    LR44_SNP1 = structure(c(63L, 1L, 92L, 1L, 2L, 12L, 0L, 159L, 
+    2L, 0L, 2L, 0L, 7L, 0L, 0L), .Dim = c(5L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "0", "1", NA), c("C", "T", NA)), .Names = c("", 
+    "")), class = "table"), LR52_SNP1 = structure(c(62L, 6L, 
+    1L, 168L, 1L, 6L, 12L, 0L, 0L, 221L, 15L, 6L, 7L, 0L, 0L, 
+    63L, 3L, 0L), .Dim = c(6L, 3L), .Dimnames = structure(list(
+        c("-1", "-2", "-3", "0", "1", NA), c("C", "T", NA)), .Names = c("", 
+    "")), class = "table"))
