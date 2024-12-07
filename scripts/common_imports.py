@@ -16,7 +16,8 @@ import plotnine as p9
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 import itertools
-import plotly.express as px
-from plotly.offline import plot
-import csv
 import seaborn as sns
+
+def rgb_to_hex(rgb_tuple):
+    r, g, b = [int(c * 255) for c in rgb_tuple]
+    return "#{:02x}{:02x}{:02x}".format(r, g, b)
