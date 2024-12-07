@@ -3,5 +3,7 @@ Presentations/
 ToDo.md
 __pycache__/
 scripts/__pycache__/
+scripts/*.Rhistory
+scripts/*.Rdata
 *.Rhistory
 *.Rdata
